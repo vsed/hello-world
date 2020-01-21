@@ -1,1 +1,3 @@
 # hello-world
+Hi! 
+Trying out git and github. Cool...
